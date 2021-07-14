@@ -61,8 +61,8 @@ enableEmoji = true
   # serif options: Fraunces / EB Garamond / Bitter
   # sans-serif options: Commissioner / Alegreya Sans / Metropolis
   # if you import your own fonts, name them here too
-  customtextFontFamily = "Bitter"
-  customheadingFontFamily = "Fraunces"
+  customtextFontFamily = "Fraunces"
+  customheadingFontFamily = "Bitter"
   # alternatively, leave empty and select basic font options: sans-serif or serif
   # for more http://tachyons.io/docs/typography/font-family/
   textFontFamily = "sans-serif"
@@ -76,7 +76,7 @@ enableEmoji = true
   [[params.social]]
       icon      = "envelope" # icon name without the 'fa-'
       icon_pack = "fas"
-      url       = "j.overbeck@mbs.edu"
+      url       = "mailto:j.overbeck@mbs.edu"
   [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
@@ -102,7 +102,7 @@ enableEmoji = true
       icon_pack = "ai"
       url       = "https://www.researchgate.net/profile/Jennifer_Overbeck"
   [[params.social]]
-      icon      = "OSF" # icon name without the 'fa-'
+      icon      = "osf" # icon name without the 'fa-'
       icon_pack = "ai"
       url       = "https://osf.io/jcx3s/"
     
@@ -114,12 +114,12 @@ enableEmoji = true
 [menu]
   [[menu.header]]
     name = "About"
-    title = "About Blogophonic"
+    title = "About Jen"
     url = "/about/"
     weight = 1
   [[menu.header]]
     name = "Blog"
-    title = "Blog"
+    title = "Blog (coming soon)"
     url = "/blog/"
     weight = 2
   [[menu.header]]

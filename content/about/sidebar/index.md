@@ -1,19 +1,19 @@
 ---
 ## Configure sidebar content in narrow column
-author: "Emily Cooper"
-role: "Social media strategy @ Savoir"
+author: "Jen Overbeck"
+role: "Associate Professor of Management"
 avatar_shape: rounded # circle, square, rounded
 show_social_links: true # specify social accounts in site config
-show_audio_link: true
-audio_link_label: "How to say my name"
-link_list_label: "Interests" # bookmarks, elsewhere, etc.
+show_audio_link: false
+audio_link_label: ""
+link_list_label: "Random tidbits about me" # bookmarks, elsewhere, etc.
 link_list:
-- name: Paris
-  url: https://en.wikipedia.org/wiki/Paris
-- name: Pastries
-  url: https://en.wikipedia.org/wiki/Pastry
-- name: People
-  url: https://en.wikipedia.org/wiki/People
+- name: Studied in Japan
+  url: https://www.kansaigaidai.ac.jp/asp/
+- name: Danced hula with a Honolulu halau
+  url: http://halaumohalailima.info/
+- name: Lost my dad this year
+  url: https://www.legacy.com/us/obituaries/tucson/name/dan-overbeck-obituary?pid=197615544
 ---
 
 ** index doesn't contain a body, just front matter above.

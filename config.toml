@@ -33,7 +33,7 @@ enableEmoji = true
   description = "The power to make organizations better"
   favicon = "/img/favicon.ico"
   logo = "/img/blogophonic-mark-dark.png"
-  mainSections = ["blog", "project", "talk"]
+  mainSections = ["pubs", "project", "talk", "lab", "blog"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -118,13 +118,13 @@ enableEmoji = true
     url = "/about/"
     weight = 1
   [[menu.header]]
-    name = "Blog"
-    title = "Blog (coming soon)"
-    url = "/blog/"
+    name = "Publications"
+    title = "Featured publications"
+    url = "/pubs/"
     weight = 2
   [[menu.header]]
     name = "Projects"
-    title = "Project Portfolio"
+    title = "Current Projects"
     url = "/project/"
     weight = 3
   [[menu.header]]
@@ -132,6 +132,16 @@ enableEmoji = true
     title = "Talks"
     url = "/talk/"
     weight = 4
+  [[menu.header]]
+    name = "PSHAW Lab"
+    title = "PSHAW Lab"
+    url = "/lab/"
+    weight = 5
+  [[menu.header]]
+    name = "Blog"
+    title = "Blog (coming soon)"
+    url = "/blog/"
+    weight = 6
     
   # Configure footer  
   [[menu.footer]]

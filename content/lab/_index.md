@@ -20,6 +20,7 @@ sidebar:
 
 # set up common front matter for all individual pages inside project/
 cascade:    
+  type: project
   show_author_byline: true
   show_post_date: true
   show_disqus_comments: false # see disqusShortname in site config

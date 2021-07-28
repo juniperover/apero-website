@@ -3,8 +3,8 @@ author: Jennifer R. Overbeck
 title: Select Publications
 #description: |
 #  Academic publications and working papers
-cascade:
-   type: project
+layout: standard
+show_title_as_headline: true
 ---
 
 ## In Press:
@@ -63,35 +63,35 @@ Negotiation is a process in which two or more people must reach agreement on how
 
 ## Pre-2013
 
-Melwani, S., Mueller, J. S., & Overbeck, J. R. (2012). Looking down: The effect of contempt and compassion on emergent leadership categorizations. Journal of Applied Psychology.   
+Melwani, S., Mueller, J. S., & Overbeck, J. R. (2012). Looking down: The effect of contempt and compassion on emergent leadership categorizations. *Journal of Applied Psychology*.   
 
-Ivanic, A., Overbeck, J. R., & Nunes, J. (2011). Status, race, and money. Psych. Science, 22, 1557-66.  
+Ivanic, A., Overbeck, J. R., & Nunes, J. (2011). Status, race, and money. *Psychological Science*, 22, 1557-66.  
 
-Fragale, A., Overbeck, J. R., & Neale, M. A. (2011). Resources versus respect: Social judgments based on targets’ power and status positions. Journal of Experimental Social Psychology. 
+Fragale, A., Overbeck, J. R., & Neale, M. A. (2011). Resources versus respect: Social judgments based on targets’ power and status positions. *Journal of Experimental Social Psychology*. 
 
-Fast, N. J., & Overbeck, J. R. (2011). The curse of power: Elevated resource control hinders self determination. Academy of Management Best Papers Proceedings.   
+Fast, N. J., & Overbeck, J. R. (2011). The curse of power: Elevated resource control hinders self determination. *Academy of Management Best Papers Proceedings*.   
 
-Overbeck, J. R. (Volume Ed.); Mannix, E.A., & Neale, M. A. (Series Eds.; 2011). Research on managing groups and teams, Vol. 14: Negotiation and Groups. Bingley, UK: Emerald Group.   
+Overbeck, J. R. (Volume Ed.); Mannix, E.A., & Neale, M. A. (Series Eds.; 2011). *Research on managing groups and teams*, Vol. 14: *Negotiation and Groups*. Bingley, UK: Emerald Group.   
 
-Cho, Y., Overbeck, J. R., & Carnevale, P. J. (2011). Status conflicts in negotiation. Research on Managing Groups & Teams, Vol. 14.  
+Cho, Y., Overbeck, J. R., & Carnevale, P. J. (2011). Status conflicts in negotiation. *Research on Managing Groups & Teams*, Vol. 14.  
 
-Overbeck, J. R., Neale, M. A., & Govan, C. (2010). I feel, therefore you act: Intrapersonal and interpersonal effects of emotion on negotiation as a function of social power. Organizational Behavior and Human Decision Processes. 
+Overbeck, J. R., Neale, M. A., & Govan, C. (2010). I feel, therefore you act: Intrapersonal and interpersonal effects of emotion on negotiation as a function of social power. *Organizational Behavior and Human Decision Processes*. 
 
-Overbeck, J. R. (2010). Concepts, domains, and historical perspectives on power. In A. Guinote & T. K. Vescio (Eds.), The Social Psychology of Power. New York: Guilford Press. 
+Overbeck, J. R. (2010). Concepts, domains, and historical perspectives on power. In A. Guinote & T. K. Vescio (Eds.), *The Social Psychology of Power*. New York: Guilford Press. 
 
-Porath, C., Overbeck, J. R., & Pearson, C. (2008). Picking up the gauntlet: How individuals respond to status challenges. Journal of Applied Social Psychology, 38, 1945-1980.   
+Porath, C., Overbeck, J. R., & Pearson, C. (2008). Picking up the gauntlet: How individuals respond to status challenges. *Journal of Applied Social Psychology*, 38, 1945-1980.   
 
-Curhan, J., & Overbeck, J. R. (2008). Making a “positive impression” in a negotiation: Gender differences in response to the manipulation of impression motivation. Negotiation & Conflict Management Research, 1, 179-193.  
+Curhan, J., & Overbeck, J. R. (2008). Making a “positive impression” in a negotiation: Gender differences in response to the manipulation of impression motivation. *Negotiation & Conflict Management Research*, 1, 179-193.  
 
-Overbeck, J. R., & Park, B. (2006). Powerful perceivers, powerless objects: Flexibility of powerholders’ social attention. Org. Behavior and Human Decision Processes, 99,227-243.   
+Overbeck, J. R., & Park, B. (2006). Powerful perceivers, powerless objects: Flexibility of powerholders’ social attention. *Organizational Behavior and Human Decision Processes*, 99,227-243.   
 
-Overbeck, J. R., Tiedens, L. Z., & Brion, S. (2006). The powerful want to, the powerless have to: Perceived constraint moderates causal attributions. European Journal of Social Psychology (Special Issue: Social Power and Group Processes) 36, 479-496.  
+Overbeck, J. R., Tiedens, L. Z., & Brion, S. (2006). The powerful want to, the powerless have to: Perceived constraint moderates causal attributions. *European Journal of Social Psychology* (Special Issue: Social Power and Group Processes) 36, 479-496.  
 
-Overbeck, J. R., Correll, J. C., & Park, B. (2005).  The internal sorting process of group status: The problem of too many stars. In M. Hunt-Thomas, E. Mannix, & M. A. Neale (Eds.), Research on Managing Groups & Teams, Vol. 7 (pp. 169-199). St. Louis, MO: Elsevier Press.
+Overbeck, J. R., Correll, J. C., & Park, B. (2005).  The internal sorting process of group status: The problem of too many stars. In M. Hunt-Thomas, E. Mannix, & M. A. Neale (Eds.), *Research on Managing Groups & Teams*, Vol. 7 (pp. 169-199). St. Louis, MO: Elsevier Press.
 
-Overbeck, J. R., Jost, J. T., Mosso, C., & Flizik, A. (2004). Resistant vs. acquiescent responses to ingroup inferiority as a function of Social Dominance Orientation in the U.S. and Italy. Group Processes and Intergroup Relations, 7, 35-54.  
+Overbeck, J. R., Jost, J. T., Mosso, C., & Flizik, A. (2004). Resistant vs. acquiescent responses to ingroup inferiority as a function of Social Dominance Orientation in the U.S. and Italy. *Group Processes and Intergroup Relations*, 7, 35-54.  
 
-Overbeck, J. R., & Park, B. (2001). When power does not corrupt: Superior individuation processes among powerful perceivers. Journal of Personality and Social Psychology, 80, 549-565.
+Overbeck, J. R., & Park, B. (2001). When power does not corrupt: Superior individuation processes among powerful perceivers. *Journal of Personality and Social Psychology*, 80, 549-565.
 
  ## Selected works in progress
  

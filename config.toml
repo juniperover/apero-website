@@ -32,7 +32,7 @@ enableEmoji = true
   orgLocal = "Melbourne"
   description = "The power to make organizations better"
   favicon = "/img/favicon.ico"
-  logo = "/img/blogophonic-mark-dark.png"
+  logo = "/img/large_helix.png"
   mainSections = ["pubs", "project", "talk", "lab", "blog"]
   navallcaps = true
   # show/hide social icons in site header & footer

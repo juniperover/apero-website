@@ -10,9 +10,9 @@ layout: list-grid # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
-  title: Speaking & engagement
+  title: Research projects
   description: |
-    For all its downsides, COVID has given lots of opportunities to amass shareable content. Here are some of the things I've done lately.
+    This summary excludes just enough info to avoid inspiring anyone to poach our ideas, or to compromise blind peer review. Otherwise, if you have thoughts about this work, I would love to hear them!
   author: "Jen Overbeck"
   text_link_label: ""
   text_link_url: ""

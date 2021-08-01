@@ -32,3 +32,9 @@ When a group member mimics the gestures of a potential leader, that leader is ju
 ### Nodding
 
 When a group member nods subtly at the ideas of a potential leader, that leader is judged more powerful, more competent, and more likable.
+
+---
+
+#### Why the thumbnail image on the projects page?
+
+The image is a screengrab from an [influential TED talk](https://www.ted.com/talks/derek_sivers_how_to_start_a_movement) that Derek Sivers gave several years ago--it inspired this work, and though his thesis is different, his advice is very consistent with our findings in this project! 

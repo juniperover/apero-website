@@ -1,7 +1,7 @@
 ---
-title: The power to make organizations better
+title: Blog - Latest Thoughts
 description: |
-  This blog is not yet live, but please watch this space!
+  Generally first-draft thoughts in development.
 author: "Jennifer R. Overbeck, PhD"
 show_post_thumbnail: true
 show_author_byline: true
@@ -11,9 +11,9 @@ layout: list-sidebar # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
-  title: The Power to Make Organizations Better
+  title: Rough Drafts
   description: |
-    This blog is not yet live, but please watch this space!
+    Here, I mostly write things that I'm still pondering...consider these musings that may eventually turn into something more polished. (Bonus points for interpreting the symbolism of image above!)
     
    
   author: "Jen Overbeck"
@@ -23,10 +23,10 @@ sidebar:
 
 # set up common front matter for all pages inside blog/
 cascade:
-  author: "Jen Ovebeck"
+  author: "Jen Overbeck"
   show_author_byline: true
   show_post_date: true
-  show_disqus_comments: false # see disqusShortname in site config
+  show_disqus_comments: true # see disqusShortname in site config
   # for single-sidebar layout
   sidebar:
     text_link_label: View recent posts

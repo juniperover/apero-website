@@ -1,6 +1,6 @@
 ---
 title: Current projects
-description: "Here's a smattering of what I'm working on these days."
+description: "A smattering of what I'm working on these days."
 author: "Jen Overbeck"
 show_post_thumbnail: true
 show_author_byline: true

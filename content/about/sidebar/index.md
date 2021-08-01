@@ -6,7 +6,7 @@ avatar_shape: rounded # circle, square, rounded
 show_social_links: true # specify social accounts in site config
 show_audio_link: false
 audio_link_label: ""
-link_list_label: "Random tidbits about me" # bookmarks, elsewhere, etc.
+link_list_label: "3 random facts" # bookmarks, elsewhere, etc.
 link_list:
 - name: Studied in Japan
   url: https://www.kansaigaidai.ac.jp/asp/

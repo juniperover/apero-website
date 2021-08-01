@@ -5,7 +5,7 @@ title = "Personal & professional website of Jen Overbeck"
 author = "Jen Overbeck"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
-disqusShortname = ""
+disqusShortname = "@disqus_Yim3u2jXuc"
 metaDataFormat = "yaml"
 footnoteReturnLinkContents = "&#8617;" # ↩
 # set deliberately low for testing choose your prefered number based on the blog layout you've chosen
@@ -33,7 +33,7 @@ enableEmoji = true
   description = "The power to make organizations better"
   favicon = "/img/favicon.ico"
   logo = "/img/large_helix.png"
-  mainSections = ["pubs", "project", "talk", "lab", "blog"]
+  mainSections = ["pubs", "project", "talk", "blog"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -139,7 +139,7 @@ enableEmoji = true
     weight = 5
   [[menu.header]]
     name = "Blog"
-    title = "Blog (coming soon)"
+    title = "Blog"
     url = "/blog/"
     weight = 6
     

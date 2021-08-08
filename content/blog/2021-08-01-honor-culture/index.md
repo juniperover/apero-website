@@ -25,9 +25,11 @@ The new BBC short-run series [Time](https://www.bbc.co.uk/iplayer/episodes/p09fs
 
 The story Daniel tells them is heartbreaking (SPOILERS FOLLOW). He was shouting drinks for his friends at a pub; when the bartender put three beers on the bar, Daniel picked them up to carry back to his table, taking a quick sip of one. Only it was the wrong order: Those three beers were for another group, and now they insisted that Daniel buy a replacement for the beer he'd sipped from. Daniel had only £1.20 left and was ashamed, so he refused. One of the men in the other group--Gerard--challenged him to pay or else 'settle things outside.' Gerard was about Daniel's size; Daniel reckoned they would go exchange some punches and put the whole thing behind them. 
 
-What he didn't know was that Gerard was a boxer, and the fight was more of a beatdown. Finally, desperate, hoping to stop the assault, Daniel pulled out a knife. He wasn't thinking rationally, of course, but he hoped that it would make Gerard back down. It didn't. And he could have backed down. But he was ashamed again. And then Gerard was dead.
+What he didn't know was that Gerard was a boxer, and the fight became more of a beatdown. Finally, desperate, hoping to stop the assault, Daniel pulled out a knife. He wasn't thinking rationally, of course, but he hoped that it would make Gerard back down. It didn't. And he could have backed down. But he was ashamed again. And then Gerard was dead.
 
-The parents listen to all of this with agonized expressions. Finally, Gerard's mother says, "You did all of this to avoid losing face." Daniel nods. "That's unforgiveable," she says.
+The parents listen to all of this with agonized expressions. Finally, Gerard's mother says, "You did all of this to avoid losing face." Daniel nods. "That's unforgiveable," she says. 
+
+Is it?
 
 ---
 

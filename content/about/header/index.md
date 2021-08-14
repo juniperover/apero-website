@@ -11,4 +11,11 @@ Since my earliest days of doctoral study at the [University of Colorado at Bould
 
 Throughout my work, I strive to help participants make processes more rational, interactions more cordial, and organisations more humane. 
 
+#### I am professionally affiliated with:
+
+[Melbourne Business School](https://www.mbs.edu) (primary employer)
+[Empirica Research](https://www.empiricaresearch.com.au/our-team) (partnering academic and market research) 
+[Pelham Associates](https://pelhamassociates.com.au/teams/) (management & legal consulting) 
+[Dilin Duwa Centre](https://fbe.unimelb.edu.au/cibl/our-people) (Centre for indigenous business leadership)
+
 <!-- My current projects examine how status makes us feel safer; the hedonic (pleasure) versus eudaimonic (meaning) motives that drive people to seek power; people's "lay theories" of power as more coercive or collaborative. -->

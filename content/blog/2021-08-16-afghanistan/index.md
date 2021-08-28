@@ -1,7 +1,7 @@
 ---
 title: "Power changes hands in Afghanistan"
 subtitle: "The US is out, the Taliban is back, and the population bears the suffering."
-excerpt: "The crumbling of the 20-year US effort in Afghanistan, in a sudden collapse, illustrates the cynamics of coercive power in a heartbreaking way."
+excerpt: "The crumbling of the 20-year US effort in Afghanistan, in a sudden collapse, illustrates the dynamics of coercive power in a heartbreaking way."
 date: 2021-08-01
 author: "Jen Overbeck"
 draft: false

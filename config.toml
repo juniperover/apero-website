@@ -138,10 +138,15 @@ enableEmoji = true
     url = "/lab/"
     weight = 5
   [[menu.header]]
+    name = "Research collaborators"
+    title = "Research collaborators"
+    url = "/collaborators/"
+    weight = 6
+  [[menu.header]]
     name = "Blog"
     title = "Blog"
     url = "/blog/"
-    weight = 6
+    weight = 7
     
   # Configure footer  
   [[menu.footer]]

@@ -1,7 +1,7 @@
 ---
 title: "Political Leadership"
 subtitle: "An interview for the Pathways to Politics program"
-excerpt: "Discussion of power dynamics for aspiring politicians"
+excerpt: "See full page at https://pathwaystopolitics.org.au/knowledge-hub/on-power-and-influencing-a-conversation-with-associate-professor-jen-overbeck/"
 date: 2022-03-05
 date_end: "2022-03-05"
 author: "Jen Overbeck"
@@ -12,10 +12,11 @@ layout: single
 categories:
 - podcast
 links:
-- icon: video
-  icon_pack: fas
-  name: video link
-  url: https://pathwaystopolitics.org.au/knowledge-hub/on-power-and-influencing-a-conversation-with-associate-professor-jen-overbeck/
+- icon: youtube-square
+  icon_pack: fab
+  name: YouTube
+  url: https://youtu.be/UlKz5clxtGQ
+
 ---
 
 

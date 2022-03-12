@@ -16,7 +16,7 @@ layout: single
 
 ### Join an existing project
 
-I have many active projects, as well as some ideas that I haven't had time or help to develop. It's Psych Fourth Year (honours) season, so here are details on projects currently open for incoming students. One student will be able to select a project from Group A and the other student will select from Group B. You'll just select an overall Group when you tell Psych your preferences. We can discuss the specific project once you are assigned to work with me.
+I have many active projects, as well as some ideas that I haven't had time or help to develop. Several of the projects below are open for student involvement, though some have been adopted already by 2022 Honours students.
 
 #### **Group A** - Power Use and Preferences
 

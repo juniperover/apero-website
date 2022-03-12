@@ -1,7 +1,7 @@
 ---
 title: "Ferron Dearnley"
-subtitle: "4th year (honours), Psychology, University of Melbourne"
-excerpt: "4th year (honours), Psychology, University of Melbourne"
+subtitle: "Former Member"
+excerpt: "Ferron worked with our lab as a Psych Honours member in 2021."
 date: 
 author:
 draft: false

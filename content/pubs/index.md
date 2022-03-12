@@ -9,6 +9,16 @@ show_title_as_headline: true
 
 ## In Press:
 
+### *How the linguistic styles of Joe Biden and Donald Trump reflect different forms of power.*
+Körner, R., Overbeck, J. R., Schutz, A., & Körner, E. (in press). How the linguistic styles of Joe Biden and Donald Trump reflect different forms of power. *Journal of Language and Social Psychology.*
+
+## In Print:
+
+### [*The P-Word: Power aversion and responsibility aversion as explanations for the avoidance of power*](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jasp.12857)
+Hull, K. E., Overbeck, J. R., Smillie, L. D., Howe, P. D. L. (2022). The P-Word: Power aversion and responsibility aversion as explanations for the avoidance of power. *Journal of Applied Social Psychology, 52*, 184-196.
+
+Though we typically think that power is desirable, individuals will sometimes avoid power.  One  explanation  for  this  behavior  is  some  individuals  are  averse  to  the  re-sponsibility  associated  with  power  and  will  therefore  avoid  positions  of  power.  However, people may also avoid power because they perceive it as being inherently negative. This is supported by research on lay theories of power, which suggests that those who endorse the coercive lay theory perceive powerful people as manipulative and deceitful. In this paper, we propose a new theory of power aversion that expands upon the coercive lay theory to more thoroughly explain how negative perceptions of  power  cause  some  individuals  to  avoid  it.  We  draw  from  previous  research  to  identify  specific  negative  traits  associated  with  power.  Based  on  this,  we  propose  that some power-averse individuals believe that possessing power will turn them into immoral, cold, selfish, and unjust people. For this reason, they avoid power. We also consider  the  relationship  between  power  aversion  and  responsibility  aversion  and  suggest a convergence between research on responsibility aversion and lay theories of power.
+
 ### [*Silence is golden: Extended silence, deliberative mindset, and value creation in negotiation*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3740110)
 Curhan, J. R., Overbeck, J. R., Cho, Y., Zhang, T., Yang, Y. (in press). Silence is golden: Extended silence, deliberative mindset, and value creation in negotiation. *Journal of Applied Psychology*.
 
@@ -20,7 +30,6 @@ Bonner, B. L., Soderberg, A. T., Meikle, N., & Overbeck, J. R. The effects of ex
 
 Introduction: Group members influence one another’s thinking in virtually every context, yet little research addresses how different combinations of experience, expertise, and power affect group dynamics and outcomes. Combining theory on social hierarchy and group decision-making, we offer a more comprehensive perspective. Method: Participants (N = 360) completed estimation tasks individually and then again in a face-to-face group using a multiphase design. Intragroup influence and task performance were measured. Results: When a group member was perceived to have relevant experience, group decisions were weighted toward her preferences. When someone in the group held decision or reward power, group decisions were instead weighted toward the preferences of the member with the most expertise. Reward power led to superior group performance. Discussion: This research highlights the importance of understanding how group members respond to different forms of influence within groups.
 
-## In Print:
 
 ### [*Interpersonal dynamics of nonverbal behavior in mixed-gender negotiations*](https://www.elgaronline.com/view/edcoll/9781788976756/9781788976756.00022.xml)
 

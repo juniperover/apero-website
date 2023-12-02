@@ -11,9 +11,24 @@ show_title_as_headline: true
 ### *The Language of Power: Interpersonal Perceptions of Sense of Power, Dominance, and Prestige Based on Word Usage.*
 Körner, R., Overbeck, J. R., Schütz, A., & Körner, E. (in press). The Language of Power: Interpersonal Perceptions of Sense of Power, Dominance, and Prestige Based on Word Usage. *European Journal of Personality.*
 
+<<<<<<< HEAD
 We examined whether people can accurately judge the experienced power, dominance, and prestige of others based on short texts, and what linguistic cues are related to these hierarchy-related variables. Past research suggests that personality is reflected in language, but hierarchy —another important feature in human relationships—has not been fully considered. In two studies with a zero-acquaintance setting, judges (N1/2 = 105/202) read self-descriptions of speakers (N1/2  = 200/200) and completed peer ratings of speakers’ power, dominance, and prestige. Speakers completed the same scales as self-ratings. We found substantial associations between the hierarchy concepts and several word categories (e.g., sense of power was negatively related to tentative words in self- and peer reports). For power and prestige, judges and speakers used the same linguistic cues for their assessments. Further, judges converged strongly in their assessments and showed high self-other agreement for all variables. We conclude that social hierarchy concepts are enacted in language and can be perceived from minimal verbal information. The findings show the importance of distinguishing between various hierarchy concepts when analyzing language correlates and have implications for testing power theories with linguistic material and the understanding of perceptions regarding hierarchy differences and following downstream consequences.
+=======
 
 
+## In Print:
+
+### *The social alignment theory of power.*  
+Fast, N. J., & Overbeck, J. R. (2022). The social alignment theory of power: Predicting associative and dissociative behavior in hierarchies. *Research in Organizational Behavior*, https://doi.org/10.1016/j.riob.2022.100178.  
+
+This theory paper encapsulates our decades of thinking about the dual faces of 
+
+### *How the linguistic styles of Joe Biden and Donald Trump reflect different forms of power.*
+Körner, R., Overbeck, J. R., Schutz, A., & Körner, E. (in press). How the linguistic styles of Joe Biden and Donald Trump reflect different forms of power. *Journal of Language and Social Psychology.*
+>>>>>>> 13291f0b88f2e68281d96349e287f4f8941c5bd9
+
+
+<<<<<<< HEAD
 ## In Print:
 
 ### [*The social alignment theory of power.*](https://www.sciencedirect.com/science/article/abs/pii/S0191308522000247)  
@@ -26,6 +41,8 @@ Körner, R., Overbeck, J. R., Schutz, A., & Körner, E. (2022). How the linguist
 
 Can theories of power be used to explain differences in the linguistic styles of Donald Trump and Joe Biden? We argue that the two candidates possess and use different forms of power—and that this is associated with typical language patterns. Based on their personal history, news reports, and empirical studies, we expect that Trump’s approach to power is characterized by coercive power forms and Biden’s by collaborative power forms. Using several LIWC categories and the moral foundations dictionary, we analyzed over 500 speeches and 15,000 tweets made during the 2020 election battle. Biden’s speeches can be described as analytical and frequently relating to moral values, whereas Trump’s speeches were characterized by a positive emotional tone. In tweets, Biden used more social words and words related to virtue, honesty, and achievement than Trump did. Trump’s coercive power and Biden’s collaborative power were more observable in tweets than speeches, which may reflect the fact that tweets are more spontaneous than speeches.
 
+=======
+>>>>>>> 13291f0b88f2e68281d96349e287f4f8941c5bd9
 ### [*The P-Word: Power aversion and responsibility aversion as explanations for the avoidance of power*](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jasp.12857)
 Hull, K. E., Overbeck, J. R., Smillie, L. D., Howe, P. D. L. (2022). The P-Word: Power aversion and responsibility aversion as explanations for the avoidance of power. *Journal of Applied Social Psychology, 52*, 184-196.
 

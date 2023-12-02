@@ -7,7 +7,7 @@ headline: Using evidence to understand organizations
 
 <!-- this is a subheadline -->
 
-Since my earliest days of doctoral study at the [University of Colorado at Boulder](https://www.colorado.edu/psych-neuro/), I've been fascinated by power, status, and hierarchy. Later, I added negotiations and change to the mix. Some themes of my work include the active strategies that people use to manage their own and others’ hierarchical position in groups; how we assign status to others; how to drive change more effectively from non-powerful positions; and how to improve negotiation outcomes. 
+I study and teach power, status, and hierarchy, as well as negotiations. Some themes of my work include the active strategies that people use to manage their own and others’ hierarchical position in groups; how we assign status to others; how to drive change more effectively from non-powerful positions; and how to improve negotiation outcomes. 
 
 Throughout my work, I strive to help participants make processes more rational, interactions more cordial, and organisations more humane. 
 
@@ -18,4 +18,4 @@ Throughout my work, I strive to help participants make processes more rational, 
 [Pelham Associates](https://pelhamassociates.com.au/teams/) (management & legal consulting) 
 [Dilin Duwa Centre](https://fbe.unimelb.edu.au/cibl/our-people) (Centre for indigenous business leadership)
 
-<!-- My current projects examine how status makes us feel safer; the hedonic (pleasure) versus eudaimonic (meaning) motives that drive people to seek power; people's "lay theories" of power as more coercive or collaborative. -->
+<!-- My current projects examine how status makes us feel safer; the hedonic (pleasure) versus eudaimonic (meaning) motives that drive people to seek power; and how use of coercive or collaborative influence tactics affect performance and culture. -->

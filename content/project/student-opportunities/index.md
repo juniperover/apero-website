@@ -1,7 +1,7 @@
 ---
 title: "Student Supervision & Volunteer Opportunities"
-subtitle: "I am currently available to supervise PhD, Masters, and Honours students."
-excerpt: "If you're interested in research on power, status, hierarchy, and/or negotiations, I'm happy to discuss potential supervision."
+subtitle: "I am currently available to supervise Masters and Honours students."
+excerpt: "If you're interested in research on power, status, hierarchy, and/or negotiations, I'm happy to discuss potential supervision. For PhD supervision, I can currently consider only a very compelling match."
 date:  2021-07-24
 author: "Jen Overbeck"
 draft: false
@@ -14,11 +14,11 @@ layout: single
 ---
 
 
-### Join an existing project  
+### Join an existing project
 
-I have many active projects, as well as some ideas that I haven't had time or help to develop. It's Psych Fourth Year (honours) season, so here are details on projects currently open for incoming students. First come, best dressed, you can pick project A or B. Upon request, we can consider one of the 'backup' projects listed below, but my priorities are A and B. Thanks! 
+For 2023 intake: I have many active projects, as well as some ideas that I haven't had time or help to develop. It's Psych Fourth Year (honours) season, so here are details on projects currently open for incoming students. First come, best dressed, you can pick project A or B. Upon request, we can consider one of the 'backup' projects listed below, but my priorities are A and B. Thanks! 
 
-#### **Project A** - How people use power
+#### **Project A** - How people use power 
 
 - **Lay theories of power - punishing deviants**. Power can be used in two different ways: Associative power is "power WITH" others, whereas dissociative power is "power AGAINST" others. These reflect fundamentally different approaches; the response to disagreement is also likely to be very different. This project seeks to map out what, exactly, people do to use power in these ways. Associative power may look like engaging in a respectful discussion, for example, whereas dissociative power may look like giving orders or making threats. The project has two stages, one collecting responses to a variety of survey measures and ordering them on a continuum of associative-dissociative; the other conducting an experiment to see how associative and dissociative power holders respond to resistance. This project has implications not only for workplace relations, but for political polarisation as well. For further reading see: 
     - Belmi, P., & Laurin, K. (2016). Who wants to get to the top? Class and lay theories about power. _Journal of Personality and Social Psychology, 111_(4), 505-529.

@@ -9,12 +9,19 @@ show_title_as_headline: true
 
 ## In Press:
 
+
+
+## In Print:
+
+### *The social alignment theory of power.*  
+Fast, N. J., & Overbeck, J. R. (2022). The social alignment theory of power: Predicting associative and dissociative behavior in hierarchies. *Research in Organizational Behavior*, https://doi.org/10.1016/j.riob.2022.100178.  
+
+This theory paper encapsulates our decades of thinking about the dual faces of 
+
 ### *How the linguistic styles of Joe Biden and Donald Trump reflect different forms of power.*
 Körner, R., Overbeck, J. R., Schutz, A., & Körner, E. (in press). How the linguistic styles of Joe Biden and Donald Trump reflect different forms of power. *Journal of Language and Social Psychology.*
 
 Can theories of power be used to explain differences in the linguistic styles of Donald Trump and Joe Biden? We argue that the two candidates possess and use different forms of power—and that this is associated with typical language patterns. Based on their personal history, news reports, and empirical studies, we expect that Trump’s approach to power is characterized by coercive power forms and Biden’s by collaborative power forms. Using several LIWC categories and the moral foundations dictionary, we analyzed over 500 speeches and 15,000 tweets made during the 2020 election battle. Biden’s speeches can be described as analytical and frequently relating to moral values, whereas Trump’s speeches were characterized by a positive emotional tone. In tweets, Biden used more social words and words related to virtue, honesty, and achievement than Trump did. Trump’s coercive power and Biden’s collaborative power were more observable in tweets than speeches, which may reflect the fact that tweets are more spontaneous than speeches.
-
-## In Print:
 
 ### [*The P-Word: Power aversion and responsibility aversion as explanations for the avoidance of power*](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jasp.12857)
 Hull, K. E., Overbeck, J. R., Smillie, L. D., Howe, P. D. L. (2022). The P-Word: Power aversion and responsibility aversion as explanations for the avoidance of power. *Journal of Applied Social Psychology, 52*, 184-196.

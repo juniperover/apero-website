@@ -13,7 +13,7 @@ layout: list-sidebar # list, list-sidebar, list-grid
 sidebar: 
   title: Rough Drafts
   description: |
-    Here, I mostly write things that I'm still pondering...consider these musings that may eventually turn into something more polished. (Bonus points for interpreting the symbolism of image above!)
+    Here, I mostly write things that I'm still pondering...consider these musings that may eventually turn into something more polished. All opinions are my own; please assume nuance and good faith.
     
    
   author: "Jen Overbeck"

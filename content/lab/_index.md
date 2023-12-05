@@ -12,7 +12,7 @@ layout: list-sidebar # list, list-sidebar, list-grid
 sidebar: 
   title: PSHAW (Power, Status, & Hierarchy At Work) Lab
   description: |
-    Current members shown at right, plus Noor deBruijn, Charley Woodcock. Past members: Katia Manariti (now Monash clinical psych PhD student), Sarah Reichman (now UniMelb clinical psych PhD student), Xi Wang, Lianna Hutchison, Shannon Hawkes, Ferron Dearnley, Dr. Kathryn Hull, Gordon Young, Emily Alexander, Ferron Dearnley.
+    **Current members** shown at right, plus Craig Lewis, Noor deBruijn, Charley Woodcock. **Past members**: Katia Manariti (now Monash clinical psych PhD student), Sarah Reichman (now UniMelb clinical psych PhD student), Xi Wang, Lianna Hutchison, Shannon Hawkes, Ferron Dearnley, Dr. Kathryn Hull, Gordon Young, Emily Alexander, Ferron Dearnley.
   author: "Jen Overbeck"
   text_link_label: ""
   text_link_url: ""

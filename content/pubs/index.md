@@ -7,13 +7,15 @@ layout: standard
 show_title_as_headline: true
 ---
 
-## In Press:
+
+### [*The effects of social (dis)engagement on status conferral: A context dependent account.*](https://onlinelibrary.wiley.com/doi/10.1111/jasp.13023) Zhang, T., & Overbeck, J. R. (2024). The effects of social (dis)engagement on status conferral: A context dependent account. _Journal of Applied Social Psychology, 54_, 195-208.
+
+The functionalist perspective of status suggests that, to attain status, individuals need to be socially engaging and contribute to a group. In contrast, the signaling perspective of status indicates that people often perceive a lack of social engagement as a status cue and thus confer status on someone who is socially disengaging. Integrating these two important perspectives in the status literature, we propose a context dependent account of social (dis)engagement and status conferral in groups and organizations. Whereas social engagement (e.g., contributing to a group and connecting with its members) results in status attainment in task contexts, social disengagement (e.g., withholding benefits from a group and distancing oneself from its members) leads to status attainment in social contexts. A laboratory study and an online experiment provide partial empirical support for our predictions. Theoretical and practical implications are discussed.
+
 ### [*The Language of Power: Interpersonal Perceptions of Sense of Power, Dominance, and Prestige Based on Word Usage.*](https://www.researchgate.net/publication/377065729_The_language_of_power_Interpersonal_perceptions_of_sense_of_power_dominance_and_prestige_based_on_word_usage)
 Körner, R., Overbeck, J. R., Schütz, A., & Körner, E. (2023). The Language of Power: Interpersonal Perceptions of Sense of Power, Dominance, and Prestige Based on Word Usage. *European Journal of Personality.*
 
 We examined whether people can accurately judge the experienced power, dominance, and prestige of others based on short texts, and what linguistic cues are related to these hierarchy-related variables. Past research suggests that personality is reflected in language, but hierarchy —another important feature in human relationships—has not been fully considered. In two studies with a zero-acquaintance setting, judges (N1/2 = 105/202) read self-descriptions of speakers (N1/2  = 200/200) and completed peer ratings of speakers’ power, dominance, and prestige. Speakers completed the same scales as self-ratings. We found substantial associations between the hierarchy concepts and several word categories (e.g., sense of power was negatively related to tentative words in self- and peer reports). For power and prestige, judges and speakers used the same linguistic cues for their assessments. Further, judges converged strongly in their assessments and showed high self-other agreement for all variables. We conclude that social hierarchy concepts are enacted in language and can be perceived from minimal verbal information. The findings show the importance of distinguishing between various hierarchy concepts when analyzing language correlates and have implications for testing power theories with linguistic material and the understanding of perceptions regarding hierarchy differences and following downstream consequences.
-
-## In Print:
 
 ### [*The social alignment theory of power.*](https://www.sciencedirect.com/science/article/abs/pii/S0191308522000247)  
 Fast, N. J., & Overbeck, J. R. (2022). The social alignment theory of power: Predicting associative and dissociative behavior in hierarchies. *Research in Organizational Behavior*, https://doi.org/10.1016/j.riob.2022.100178.  

@@ -8,7 +8,8 @@ show_title_as_headline: true
 ---
 
 
-### [*The effects of social (dis)engagement on status conferral: A context dependent account.*](https://onlinelibrary.wiley.com/doi/10.1111/jasp.13023) Zhang, T., & Overbeck, J. R. (2024). The effects of social (dis)engagement on status conferral: A context dependent account. _Journal of Applied Social Psychology, 54_, 195-208.
+### [*The effects of social (dis)engagement on status conferral: A context dependent account.*](https://onlinelibrary.wiley.com/doi/10.1111/jasp.13023) 
+Zhang, T., & Overbeck, J. R. (2024). The effects of social (dis)engagement on status conferral: A context dependent account. _Journal of Applied Social Psychology, 54_, 195-208.
 
 The functionalist perspective of status suggests that, to attain status, individuals need to be socially engaging and contribute to a group. In contrast, the signaling perspective of status indicates that people often perceive a lack of social engagement as a status cue and thus confer status on someone who is socially disengaging. Integrating these two important perspectives in the status literature, we propose a context dependent account of social (dis)engagement and status conferral in groups and organizations. Whereas social engagement (e.g., contributing to a group and connecting with its members) results in status attainment in task contexts, social disengagement (e.g., withholding benefits from a group and distancing oneself from its members) leads to status attainment in social contexts. A laboratory study and an online experiment provide partial empirical support for our predictions. Theoretical and practical implications are discussed.
 

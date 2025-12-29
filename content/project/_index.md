@@ -2,7 +2,7 @@
 title: Current projects
 description: "A smattering of what I'm working on these days."
 author: "Jen Overbeck"
-show_post_thumbnail: true
+show_post_thumbnail: false
 show_author_byline: true
 show_post_date: false
 # for listing page layout

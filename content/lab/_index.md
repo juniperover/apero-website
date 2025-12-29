@@ -1,34 +1,60 @@
 ---
-title: PSHAW (Power, Status, and Hierarchy At Work) Lab
-description: "I am extraordinarily proud of this group of scholars."
+title: "PSHAW Lab & Collaborators"
+description: "The Power, Status, Hierarchy, and Work Lab"
 author: "Jen Overbeck"
-show_post_thumbnail: true
-show_author_byline: true
+show_post_thumbnail: false
+show_author_byline: false
 show_post_date: false
-# for listing page layout
-layout: list-sidebar # list, list-sidebar, list-grid
+layout: list-sidebar
 
-# for list-sidebar layout
 sidebar: 
-  title: PSHAW (Power, Status, & Hierarchy At Work) Lab
+  title: "Lab Resources"
   description: |
-    **Current members** shown at right, plus Craig Lewis, Noor deBruijn, Charley Woodcock. **Past members**: Katia Manariti (now Monash clinical psych PhD student), Sarah Reichman (now UniMelb clinical psych PhD student), Xi Wang, Lianna Hutchison, Shannon Hawkes, Ferron Dearnley, Dr. Kathryn Hull, Gordon Young, Emily Alexander, Ferron Dearnley.
-  author: "Jen Overbeck"
+    Information and materials for current and prospective lab members.
   text_link_label: ""
   text_link_url: ""
-  show_sidebar_adunit: false # show ad container
-
-# set up common front matter for all individual pages inside project/
-cascade:    
-  type: project
-  show_author_byline: false
-  show_post_date: false
-  show_disqus_comments: false # see disqusShortname in site config
-  # for single-sidebar layout only
-  sidebar:
-    text_link_label: Current Lab Members
-    text_link_url: /lab/
-    show_sidebar_adunit: false # show ad container
+  show_sidebar_adunit: false
 ---
 
-** No content for the project index. This file provides front matter for the blog including the layout and boolean options. **
+## About the PSHAW Lab
+
+The Power, Status, Hierarchy, and Work (PSHAW) Lab conducts research on...
+
+## Current Lab Members
+
+**Junior Faculty**
+
+Dr. Reb Rebele - Reb completed his PhD in personality psychology at the University of Melbourne. He manages research at the University of Pennsylvania's Wharton School and teaches MBA courses at Melbourne Business School while he writes his forthcoming book. Reb's research focuses on how people regulate their personality traits.
+
+Dr. Said Shafa - Said completed a postdoctoral fellowship at Melbourne Business School and is currently a lecturer in psychology at the University of Melbourne. Said's research focuses on cultural logics (honour, face, and dignity).
+
+**PhD Students**
+
+Craig Lewis - Craig's multidisciplinary (computer science and organizational behavior) research focuses on influence tactics and how teams develop influencing cultures.
+
+Noor deBruijn - Noor uses natural language processing methods to study how performance evaluations evolve over time for men and women, and how people form impressions of leaders.
+
+## Research Collaborators
+
+I'm privileged to collaborate with brilliant scholars from around the world, including:
+
+**Modupe Akinola** - Columbia University   
+**Nate Meikle** - Notre Dame University  
+**Dave Howe** - UT Permian Basin  
+Working on: How subtle signals reinforce impressions of leadership
+
+**Nicole Mead** - Nova School of Business & Economics  
+**Nate Fast** - University of Southern California  
+**Dede Narh** - University of Melbourne/Melbourne Business School  
+Working on: How views of power affect people's decisions about trade-offs.
+
+**Greg Nyilasi, Brock Bastian, Abraham Hito** - University of Melbourne  
+Working on: Trust in AI used for moral compliance
+
+**Ekaterina Netchaeva** - HEC Paris
+Working on: How people form impressions of leaders over time
+
+**Teng Zhang** - Penn State University  
+Working on: How dissociative cues foster status conferral
+
+

@@ -1,7 +1,7 @@
 baseURL = "/"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Jennifer R. Overbeck, PhD"
+title = "Personal & professional website of Jen Overbeck"
 author = "Jen Overbeck"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
@@ -30,11 +30,11 @@ enableEmoji = true
 [params]
   orgName = "Jennifer R. Overbeck, PhD"
   orgLocal = "Melbourne"
-  description = "Research on power, status, and organizational behavior"
+  description = "The power to make organizations better"
   favicon = "/img/favicon.ico"
   logo = "/img/large_helix.png"
-  mainSections = ["pubs", "project", "blog"]
-  navallcaps = false  # Changed to false for more professional look
+  mainSections = ["pubs", "project", "talk", "blog"]
+  navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
   socialInHeader = false
@@ -48,7 +48,7 @@ enableEmoji = true
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
   #         poppy / sky / violet / water 
-  theme = "grayscale"  # Changed from "sky" for professional, clean look
+  theme = "sky"
   
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/
@@ -61,8 +61,8 @@ enableEmoji = true
   # serif options: Fraunces / EB Garamond / Bitter
   # sans-serif options: Commissioner / Alegreya Sans / Metropolis
   # if you import your own fonts, name them here too
-  customtextFontFamily = "Commissioner"  # Changed to clean sans-serif
-  customheadingFontFamily = "Commissioner"  # Changed for consistency
+  customtextFontFamily = "Fraunces"
+  customheadingFontFamily = "Bitter"
   # alternatively, leave empty and select basic font options: sans-serif or serif
   # for more http://tachyons.io/docs/typography/font-family/
   textFontFamily = "sans-serif"
@@ -78,13 +78,9 @@ enableEmoji = true
       icon_pack = "fas"
       url       = "mailto:j.overbeck@mbs.edu"
   [[params.social]]
-      icon      = "google-scholar" # icon name without the 'fa-'
-      icon_pack = "ai"
-      url       = "https://scholar.google.com/citations?user=bz162vYAAAAJ"
-  [[params.social]]
-      icon      = "orcid" # icon name without the 'fa-'
-      icon_pack = "ai"
-      url       = "https://orcid.org/0000-0001-6176-2453"
+      icon      = "github" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://github.com/juniperover"
   [[params.social]]
       icon      = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"
@@ -94,9 +90,13 @@ enableEmoji = true
       icon_pack = "fab"
       url       = "https://twitter.com/DrJenOverbeck"
   [[params.social]]
-      icon      = "github" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://github.com/juniperover"
+      icon      = "google-scholar" # icon name without the 'fa-'
+      icon_pack = "ai"
+      url       = "https://scholar.google.com/citations?user=bz162vYAAAAJ"
+  [[params.social]]
+      icon      = "orcid" # icon name without the 'fa-'
+      icon_pack = "ai"
+      url       = "https://orcid.org/0000-0001-6176-2453"
   [[params.social]]
       icon      = "researchgate" # icon name without the 'fa-'
       icon_pack = "ai"
@@ -112,27 +112,41 @@ enableEmoji = true
   tag = "tags"
 
 [menu]
-  # Streamlined navigation - consolidated items
   [[menu.header]]
     name = "About"
     title = "About Jen"
     url = "/about/"
     weight = 1
   [[menu.header]]
-    name = "Research"
-    title = "Publications & Projects"
+    name = "Publications"
+    title = "Featured publications"
     url = "/pubs/"
     weight = 2
   [[menu.header]]
-    name = "Lab"
-    title = "PSHAW Lab & Collaborators"
-    url = "/lab/"
+    name = "Projects"
+    title = "Current Projects"
+    url = "/project/"
     weight = 3
+  [[menu.header]]
+    name = "Talks"
+    title = "Talks"
+    url = "/talk/"
+    weight = 4
+  [[menu.header]]
+    name = "PSHAW Lab"
+    title = "PSHAW Lab"
+    url = "/lab/"
+    weight = 5
+  [[menu.header]]
+    name = "Research collaborators"
+    title = "Research collaborators"
+    url = "/collaborators/"
+    weight = 6
   [[menu.header]]
     name = "Blog"
     title = "Blog"
     url = "/blog/"
-    weight = 4
+    weight = 7
     
   # Configure footer  
   [[menu.footer]]
@@ -168,3 +182,4 @@ enableEmoji = true
   [privacy.youtube]
     disable = false
     privacyEnhanced = true
+

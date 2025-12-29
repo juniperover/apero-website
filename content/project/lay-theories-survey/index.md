@@ -21,7 +21,7 @@ Please note that this survey has not gone through ethics review for human subjec
 It's conceivable that at some future time I'll see ethics approval to use already-collected data. If you prefer that I NOT use your anonymous data in published research then please [send me an email](mailto:j.overbeck@mbs.edu) with the time and date you completed the survey, as well as your computer's location when you did it. This will allow me to find and delete your data record without collecting identifying information.
 
 
-p><em>Note: If the survey doesn't appear below, your browser's privacy settings may be blocking it. <a href="https://mbsee.au1.qualtrics.com/jfe/form/SV_5C6KaOmZm1c9pCC" target="_blank">Click here to open it in a new window</a>.</em></p>
+<p><em>Note: If the survey doesn't appear below, your browser's privacy settings may be blocking it. <a href="https://mbsee.au1.qualtrics.com/jfe/form/SV_5C6KaOmZm1c9pCC" target="_blank">Click here to open it in a new window</a>.</em></p>
 
 
 <iframe src="https://mbsee.au1.qualtrics.com/jfe/form/SV_5C6KaOmZm1c9pCC" height="800px" width="600px"></iframe>

@@ -10,8 +10,8 @@ tags:
   - prestige-dominance
   - dissociative
 categories:
-  - status studies 
-  - research
+  - current-projects
+weight: 5
 # layout options: single or single-sidebar
 layout: single
 ---

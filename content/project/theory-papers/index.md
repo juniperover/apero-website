@@ -1,7 +1,7 @@
 ---
 title: "Theories of Power"
-subtitle: "Why do people want power, and what happens when they get it? In 2021, I'm working on two major theory papers that lay out key dynamics in the pursuit and experience of power."
-excerpt: "In two papers with colleagues, I lay out two-factor theories that describe how some people want power for the pleasures it offers, and others because it enables progress toward important goals; and that analyze how power can lead to more agency or more aggression based on the power holder's balance of resource control and capacity for volitional influence."
+subtitle: "How do people make trade-offs involving their power?"
+excerpt: "My coauthors and I develop a two-factor theory that describe how some people want power for the pleasures it offers, and others because it enables progress toward important goals."
 date:  2021-07-24
 author: "Jen Overbeck"
 draft: false
@@ -10,9 +10,8 @@ tags:
   - hedonic-eudaimonic
   - associative_dissociative
 categories:
-  - power 
-  - theory
-  - writing
+  - current-projects
+weight: 3
 # layout options: single or single-sidebar
 layout: single
 ---

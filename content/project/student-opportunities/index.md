@@ -8,7 +8,8 @@ draft: false
 tags:
   - opportunities
 categories:
-  - student supervision
+  - get-involved
+weight: 1
 # layout options: single or single-sidebar
 layout: single
 ---

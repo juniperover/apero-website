@@ -9,7 +9,8 @@ tags:
   - opportunities
   - partnerships
 categories:
-  - professional
+  - get-involved
+weight: 2
 # layout options: single or single-sidebar
 layout: single
 ---

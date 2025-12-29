@@ -10,8 +10,8 @@ tags:
   - latent lieutenant
   - intragroup
 categories:
-  - power studies
-  - research
+  - current-projects
+weight: 4
 # layout options: single or single-sidebar
 layout: single
 ---

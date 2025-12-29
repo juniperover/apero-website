@@ -10,8 +10,8 @@ tags:
   - lay theories
   - leadership
 categories:
-  - teaching 
-  - research
+  - get-involved
+weight: 1
 # layout options: single or single-sidebar
 layout: single
 ---

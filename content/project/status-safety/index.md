@@ -12,8 +12,8 @@ tags:
   - covid
   - survey
 categories:
-  - status studies
-  - research
+  - current-projects
+weight: 2
 layout: single
 links:
 - icon: door-open

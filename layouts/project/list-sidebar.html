@@ -2,12 +2,23 @@
 {{ $caller := . }}
 <main class="page-main pa4 {{ .Kind }}" role="main">
   <section class="blog-content mw7 center">
-    {{ $paginator := .Paginate (where .RegularPagesRecursive "Type" "blog").ByDate.Reverse }}
-      {{ range $paginator.Pages }}
+    {{ .Content }}
+    
+    <h2>Get Involved</h2>
+    {{ range (where .RegularPagesRecursive "Type" "project").ByWeight }}
+      {{ if in .Params.categories "get-involved" }}
         {{ .Scratch.Set "$root" $caller }}
         {{ partial "shared/summary" . }}
       {{ end }}
-    {{ partial "shared/list-pagination.html" . }}
+    {{ end }}
+    
+    <h2>Current Projects</h2>
+    {{ range (where .RegularPagesRecursive "Type" "project").ByWeight }}
+      {{ if in .Params.categories "current-projects" }}
+        {{ .Scratch.Set "$root" $caller }}
+        {{ partial "shared/summary" . }}
+      {{ end }}
+    {{ end }}
   </section>
 </main>
 <aside class="page-sidebar" role="complementary">

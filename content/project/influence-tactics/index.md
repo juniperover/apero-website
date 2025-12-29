@@ -1,17 +1,17 @@
 ---
-title: "Status Instability"
-subtitle: "Does feeling that one's status is vulnerable lead to more authoritarian attitudes and support for authoritarian figures?"
-excerpt: "After the 2016 election, scholars debated whether support for Trump was driven more by economic disadvantage or racial anxiety."
-date: 2021-07-24
+title: "Influence Tactics"
+subtitle: "How do people use influencing behaviors to carry out their power?"
+excerpt: "With PhD student Craig Lewis, I investigate how power and persuasion underlie."
+date: 2025-12-29
 author: "Jen Overbeck"
 draft: true
 tags:
-- status
-- political psych
-- survey
-- covid
+- social alignment theory of power
+- influencing
+- two factor theories
 categories:
 - current-projects
+weight: 1
 # layout options: single or single-sidebar
 layout: single
 #links:

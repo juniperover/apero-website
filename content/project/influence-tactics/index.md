@@ -1,7 +1,7 @@
 ---
 title: "Influence Tactics"
 subtitle: "How do people use influencing behaviors to carry out their power?"
-excerpt: "With PhD student Craig Lewis, I investigate how power and persuasion underlie."
+excerpt: "With PhD student Craig Lewis, I investigate how power and persuasion underlie the behaviors we engage in to carry out power."
 date: 2025-12-29
 author: "Jen Overbeck"
 draft: false

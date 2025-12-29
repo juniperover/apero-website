@@ -15,6 +15,8 @@ sidebar:
   show_sidebar_adunit: false
 ---
 
+# Publications
+
 Selected publications from my research program. For a complete list, 
 please see my [CV](/about/) or [Google Scholar profile](https://scholar.google.com/citations?user=bz162vYAAAAJ).
 

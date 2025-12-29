@@ -30,4 +30,3 @@ cascade:
     show_sidebar_adunit: false # show ad container
 ---
 
-** No content for the project index. This file provides front matter for the blog including the layout and boolean options. **

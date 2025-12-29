@@ -4,7 +4,7 @@ subtitle: "How do people use influencing behaviors to carry out their power?"
 excerpt: "With PhD student Craig Lewis, I investigate how power and persuasion underlie."
 date: 2025-12-29
 author: "Jen Overbeck"
-draft: true
+draft: false
 tags:
 - social alignment theory of power
 - influencing
@@ -29,12 +29,4 @@ layout: single
 #  url: https://education.rstudio.com/blog/2020/07/palmerpenguins-cran/
 ---
 
-### Study 1
 
-This was a survey.
-
----
-
-### Study 2
-
-Currently in development as part of an honours thesis!

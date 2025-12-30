@@ -1,6 +1,6 @@
 ---
 title: Current projects
-description: "A smattering of what I'm working on these days."
+description: "Key things I'm working on these days."
 author: "Jen Overbeck"
 show_post_thumbnail: false
 show_author_byline: true
@@ -12,7 +12,7 @@ layout: list-sidebar
 sidebar: 
   title: Research projects
   description: |
-    This summary excludes just enough info to avoid inspiring anyone to poach our ideas, or to compromise blind peer review. Otherwise, if you have thoughts about this work, I would love to hear them!
+    These are my active projects at the moment. If any of these spark interest for you as an organizational partner, academic collaborator, prospective student, or research assistant, please get in touch to chat about ideas and opportunities! 
   author: "Jen Overbeck"
   text_link_label: ""
   text_link_url: ""

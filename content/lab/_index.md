@@ -48,7 +48,7 @@ Helena Lee (now UniMelb ed psych PhD), Emma Liu (now UniMelb clinical MA), Charl
 I'm privileged to collaborate with brilliant scholars from around the world, including:
 
 **Modupe Akinola** - Columbia University   
-**Nate Meikle** - Notre Dame University  
+**Nate Meikle** - University of Kansas    
 **Dave Howe** - UT Permian Basin  
 Working on: How subtle signals reinforce impressions of leadership
 
@@ -60,10 +60,10 @@ Working on: How views of power affect people's decisions about trade-offs.
 **Greg Nyilasi, Brock Bastian, Abraham Hito** - University of Melbourne  
 Working on: Trust in AI used for moral compliance
 
-**Ekaterina Netchaeva** - HEC Paris
+**Ekaterina Netchaeva** - HEC Paris  
 Working on: How people form impressions of leaders over time
 
-**Teng Zhang** - Penn State University  
+**Teng Zhang** - Penn State University (Harrisburg)  
 Working on: How dissociative cues foster status conferral
 
 

@@ -1,7 +1,7 @@
 ---
 ## Configure sidebar content in narrow column
 author: "Jen Overbeck"
-role: "Associate Professor of Management"
+role: "Professor of Management & Associate Dean, Research"
 avatar_shape: rounded # circle, square, rounded
 show_social_links: true # specify social accounts in site config
 show_audio_link: false

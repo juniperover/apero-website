@@ -2,10 +2,11 @@
 ## Configure header of page
 text_align_right: false
 show_title_as_headline: false
-headline: Using evidence to understand organizations
+headline: ""
 ---
 
 <!-- this is a subheadline -->
+## Using evidence to understand organizations  
 
 I study and teach power, status, and hierarchy, as well as negotiations. Some themes of my work include the active strategies that people use to manage their own and others’ hierarchical position in groups; how we assign status to others; how to drive change more effectively from non-powerful positions; and how to improve negotiation outcomes. 
 

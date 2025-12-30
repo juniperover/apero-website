@@ -1,6 +1,6 @@
 ---
 ## Configure page content in wide column
-title: "What I've been doing lately:" # leave blank to exclude 
+title: "Recent activity on this website:" # leave blank to exclude 
 number_featured: 1 # pulling from mainSections in config.toml
 number_categories: 3 # set to zero to exclude
 show_intro: true

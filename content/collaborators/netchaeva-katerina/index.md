@@ -4,7 +4,7 @@ subtitle: "Assistant Professor, Management, HEC Paris"
 excerpt: "Assistant Professor, Management, HEC Paris"
 date: 
 author:
-draft: false
+draft: true
 tags:
 categories:
 layout: single

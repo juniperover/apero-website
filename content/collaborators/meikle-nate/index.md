@@ -4,7 +4,7 @@ subtitle: "Assistant Professor, Management, University of Kansas"
 excerpt: "Assistant Professor, Management, University of Kansas"
 date: 
 author: ""
-draft: false
+draft: true
 
 ---
 

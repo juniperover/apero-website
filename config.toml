@@ -33,7 +33,7 @@ enableEmoji = true
   description = "Research on power, status, and organizational behavior"
   favicon = "/img/favicon.ico"
   logo = "/img/large_helix.png"
-  mainSections = ["pubs", "project", "blog"]
+  mainSections = ["pubs", "blog", "talk"]
   navallcaps = false  # Changed to false for more professional look
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]

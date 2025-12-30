@@ -2,6 +2,7 @@
 title: "Cultural differences in perceptions of power: A cultural logics perspective"
 date: 2025-01-02
 author: "Jen Overbeck"
+featured: true
 categories:
   - pubs
 excerpt: "Cross-cultural research examining how dignity, face, and honor cultures view collaborative versus coercive theories of power."

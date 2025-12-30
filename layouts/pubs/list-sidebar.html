@@ -3,11 +3,9 @@
 <main class="page-main pa4 {{ .Kind }}" role="main">
   <section class="blog-content mw7 center">
     {{ .Content }}
-    {{ $paginator := .Paginate (where .RegularPagesRecursive "Type" "pubs").ByDate.Reverse }}
-      {{ range $paginator.Pages }}
-        {{ .Scratch.Set "$root" $caller }}
-        {{ partial "shared/summary" . }}
-      {{ end }}
+        {{ $pages := where .RegularPagesRecursive "Type" "pubs" }}
+        {{ $pages := where $pages "Params.featured" "!=" true }}
+        {{ $paginator := .Paginate $pages }}
     {{ partial "shared/list-pagination.html" . }}
   </section>
 </main>

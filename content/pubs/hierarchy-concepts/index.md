@@ -6,6 +6,7 @@ date: 2025-01-01
 date_end: "2025-01-01"
 author: "Jen Overbeck"
 location: "Psychological Bulletin"
+featured: true
 draft: false
 # layout options: single, single-sidebar
 layout: single

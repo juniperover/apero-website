@@ -10,7 +10,7 @@ layout: list-sidebar
 sidebar: 
   title: "The PSHAW Lab"
   description: |
-    <b>Power, Status, and Hierarchy at Work<b> 
+    <b>Power, Status, and Hierarchy at Work</b> 
     <p>We meet weekly online. 
     <br>Members: All materials, resources, meeting links, etc., are on the lab Basecamp.
   text_link_label: ""
@@ -40,7 +40,7 @@ We also welcome research assistants and students who wish to volunteer for resea
 
 ## Past Members
 
-Charley Woodcock (now La Trobe clinical psych MA), Katia Manariti (now Monash neuropsych PhD), Sarah Reichman (now UniMelb clinical psych PhD), Xi Wang, Lianna Hutchison, Shannon Hawkes, Ferron Dearnley, Dr. Kathryn Hull, Gordon Young, Emily Alexander<br><br>
+Helena Lee (now UniMelb ed psych PhD), Emma Liu (now UniMelb clinical MA), Charley Woodcock (now La Trobe clinical psych MA), Katia Manariti (now Monash neuropsych PhD), Sarah Reichman (now UniMelb clinical psych PhD), Xi Wang, Lianna Hutchison, Shannon Hawkes, Ferron Dearnley, Dr. Kathryn Hull, Gordon Young, Emily Alexander<br><br>
     
 
 ## Research Collaborators

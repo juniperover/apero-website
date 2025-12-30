@@ -10,7 +10,7 @@ layout: list-sidebar
 sidebar: 
   title: "The PSHAW Lab"
   description: |
-    Power, Status, Hierarchy, and Work 
+    <b>Power, Status, and Hierarchy at Work<b> 
     <p>We meet weekly online. 
     <br>Members: All materials, resources, meeting links, etc., are on the lab Basecamp.
   text_link_label: ""
@@ -18,25 +18,25 @@ sidebar:
   show_sidebar_adunit: false
 ---
 
-## About the PSHAW Lab
+## About the Lab
 
 The PSHAW Lab conducts research broadly related to the topics that make up our name. Members include junior faculty who worked with me (Jen) during their PhD or postdoc years and stay involved with the lab because of the rich intellectual community we've created; PhD students currently working on publications and thesis work; and 4th year honours students in psychology supervised by a lab faculty member.
 
-We also welcome research assistants and students who wish to volunteer for research opportunities or to visit from overseas. If you're interested in studying organizational dynamics involving power, status, influence, please email: j.overbeck (at) mbs.edu.
+We also welcome research assistants and students who wish to volunteer for research opportunities or to visit from overseas. If you're interested in studying organizational dynamics involving power, status, influence, etc., please email: j.overbeck (at) mbs.edu.
 
 ## Current Lab Members
 
-**Junior Faculty**
+### Junior Faculty
 
-Dr. Reb Rebele - Reb completed his PhD in personality psychology at the University of Melbourne. He manages research at the University of Pennsylvania's Wharton School and teaches MBA courses at Melbourne Business School while he writes his forthcoming book. Reb's research focuses on how people regulate their personality traits.
+**Dr. Reb Rebele** - Reb completed his PhD in personality psychology at the University of Melbourne. He manages research at the University of Pennsylvania's Wharton School and teaches MBA courses at Melbourne Business School while he writes his forthcoming book. Reb's research focuses on how people regulate their personality traits.
 
-Dr. Said Shafa - Said completed a postdoctoral fellowship at Melbourne Business School and is currently a lecturer in psychology at the University of Melbourne. Said's research focuses on cultural logics (honour, face, and dignity).
+**Dr. Said Shafa** - Said completed a postdoctoral fellowship at Melbourne Business School and is currently a lecturer in psychology at the University of Melbourne. Said's research focuses on cultural logics (honour, face, and dignity).
 
-**PhD Students**
+### PhD Students
 
-Craig Lewis - Craig's multidisciplinary (computer science and organizational behavior) research focuses on influence tactics and how teams develop influencing cultures.
+**Craig Lewis** - Craig's multidisciplinary (computer science and organizational behavior) research focuses on influence tactics and how teams develop influencing cultures.
 
-Noor deBruijn - Noor uses natural language processing methods to study how performance evaluations evolve over time for men and women, and how people form impressions of leaders.
+**Noor deBruijn** - Noor uses natural language processing methods to study how performance evaluations evolve over time for men and women, and how people form impressions of leaders.
 
 ## Past Members
 

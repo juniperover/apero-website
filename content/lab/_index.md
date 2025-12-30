@@ -8,9 +8,11 @@ show_post_date: false
 layout: list-sidebar
 
 sidebar: 
-  title: "Lab Resources"
+  title: "The PSHAW Lab"
   description: |
-    Information and materials for current and prospective lab members.
+    Power, Status, Hierarchy, and Work 
+    <p>We meet weekly online. 
+    <br>Members: All materials, resources, meeting links, etc., are on the lab Basecamp.
   text_link_label: ""
   text_link_url: ""
   show_sidebar_adunit: false
@@ -18,7 +20,9 @@ sidebar:
 
 ## About the PSHAW Lab
 
-The Power, Status, Hierarchy, and Work (PSHAW) Lab conducts research on...
+The PSHAW Lab conducts research broadly related to the topics that make up our name. Members include junior faculty who worked with me (Jen) during their PhD or postdoc years and stay involved with the lab because of the rich intellectual community we've created; PhD students currently working on publications and thesis work; and 4th year honours students in psychology supervised by a lab faculty member.
+
+We also welcome research assistants and students who wish to volunteer for research opportunities or to visit from overseas. If you're interested in studying organizational dynamics involving power, status, influence, please email: j.overbeck (at) mbs.edu.
 
 ## Current Lab Members
 
@@ -33,6 +37,11 @@ Dr. Said Shafa - Said completed a postdoctoral fellowship at Melbourne Business 
 Craig Lewis - Craig's multidisciplinary (computer science and organizational behavior) research focuses on influence tactics and how teams develop influencing cultures.
 
 Noor deBruijn - Noor uses natural language processing methods to study how performance evaluations evolve over time for men and women, and how people form impressions of leaders.
+
+## Past Members
+
+Charley Woodcock (now La Trobe clinical psych MA), Katia Manariti (now Monash neuropsych PhD), Sarah Reichman (now UniMelb clinical psych PhD), Xi Wang, Lianna Hutchison, Shannon Hawkes, Ferron Dearnley, Dr. Kathryn Hull, Gordon Young, Emily Alexander<br><br>
+    
 
 ## Research Collaborators
 

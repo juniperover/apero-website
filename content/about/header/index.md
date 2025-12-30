@@ -6,7 +6,7 @@ headline: ""
 ---
 
 <!-- this is a subheadline -->
-## Using evidence to understand organizations  
+## I study influence and hierarchy as the critical dynamics for understanding organizations  
 
 
 

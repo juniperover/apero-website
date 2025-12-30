@@ -78,6 +78,10 @@
             </div>
             {{ end }}
 
+          {{ with .Params.bio }}
+            <div class="f6 lh-copy measure-narrow center pv3 pb4">{{ . | markdownify }}</div>
+          {{ end }}
+          
           <div class="pa1 pa2-ns tc ph4">
             <h5 class="f-subheadline f4 fw2 ttu tracked">{{ .Params.link_list_label }}</h5>
             <ul class="list measure center ph4 pb4">
@@ -89,9 +93,7 @@
             </ul>
           </div>
           
-          {{ with .Params.bio }}
-            <div class="f6 lh-copy measure-narrow center pv3">{{ . | markdownify }}</div>
-          {{ end }}
+
           
         </sidebar>
         {{ end }}

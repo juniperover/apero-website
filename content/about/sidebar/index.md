@@ -10,6 +10,7 @@ bio: |
   <a href="https://www.empiricaresearch.com.au/our-team">Empirica Research</a><br>
   <a href="https://pelhamassociates.com.au/teams/">Pelham Associates</a><br>
   <a href="https://fbe.unimelb.edu.au/cibl/our-people">Dilin Duwa Centre</a>
+  <a href="/files/overbeck-cv.pdf" target="_blank"><b>My CV (PDF)</b></a>
 avatar_shape: rounded # circle, square, rounded
 show_social_links: true
 show_audio_link: false

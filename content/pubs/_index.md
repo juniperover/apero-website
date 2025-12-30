@@ -18,7 +18,7 @@ sidebar:
 # Publications
 
 Selected publications from my research program. For a complete list, 
-please see my [CV](/about/) or [Google Scholar profile](https://scholar.google.com/citations?user=bz162vYAAAAJ).
+please see my [CV](/files/overbeck-cv.pdf) or [Google Scholar profile](https://scholar.google.com/citations?user=bz162vYAAAAJ).
 
 
 ### [*Cultural differences in perceptions of power: A cultural logics perspective.*](https://www.sciencedirect.com/science/article/pii/S266662272500036X?via%3Dihub)

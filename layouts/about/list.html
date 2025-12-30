@@ -48,7 +48,7 @@
     {{ $sidebar := printf "/%s/%s" .Section "sidebar/index.md" }}
     {{ $sidebar_pg := site.GetPage $sidebar }}
     {{ with $sidebar_pg }}
-        <sidebar class="about-sidebar order-1 {{ if $page.Params.sidebar_left }}order-1-l{{ else }}mr4-l order-2-l{{ end }} mh0 w-third-l w-100-ns" id="profile">
+      <sidebar class="about-sidebar order-1 {{ if $page.Params.sidebar_left }}order-1-l{{ else }}mr4-l order-2-l{{ end }} mh0 w-third-l w-100-ns pb5" id="profile">
           <div class="pt3 pb1 pb2-ns tc ph4">
             {{ if .Params.avatar_shape }}
               {{- $avatar := ($sidebar_pg.Resources.ByType "image").GetMatch "*avatar*" -}}
@@ -82,7 +82,7 @@
             <div class="f6 lh-copy measure-narrow center pv3 pb4">{{ . | markdownify }}</div>
           {{ end }}
           
-          <div class="pa1 pa2-ns tc ph4">
+          <div class="pa1 pa2-ns tc ph4 pb4">
             <h5 class="f-subheadline f4 fw2 ttu tracked">{{ .Params.link_list_label }}</h5>
             <ul class="list measure center ph4 pb4">
             {{ range .Params.link_list }}

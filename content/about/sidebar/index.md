@@ -14,7 +14,6 @@ avatar_shape: rounded # circle, square, rounded
 show_social_links: true
 show_audio_link: false
 audio_link_label: ""
-text_contents:""
 link_list_label: "3 fun things:"
 link_list:
 - name: Happy place
